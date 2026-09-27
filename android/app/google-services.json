@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909406853942",
+    "project_id": "ai-expense-scanner",
+    "storage_bucket": "ai-expense-scanner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909406853942:android:e8299fa1078a305d9a3197",
+        "android_client_info": {
+          "package_name": "com.aiexpense.ai_expense_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909406853942-t1kejeh5hghujkrcu9kj9vg9l90ijf7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiexpense.ai_expense_scanner",
+            "certificate_hash": "f1897f3a75fc08397a8d4a34f35bd160c8f94f75"
+          }
+        },
+        {
+          "client_id": "909406853942-92pi26nrlndp8r4l0c2l26jc44qlkae5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0H5x34FcqfKUd48FIsJWgMP5AqWJ3mBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909406853942-92pi26nrlndp8r4l0c2l26jc44qlkae5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
