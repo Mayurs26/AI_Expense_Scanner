@@ -21,29 +21,17 @@ A modern AI-powered Flutter expense tracker that scans receipts, extracts expens
 
 ## 📱 Screenshots
 
-### Splash Screen
-<img src="assets/images/Splash Screen.jpg" width="250"/>
+<div align="center">
 
-### Google Sign-In
-<img src="assets/images/Google Sign-In.jpg" width="250"/>
+| Splash Screen | Google Sign-In | Dashboard | Add Expense |
+|---|---|---|---|
+| <img src="assets/images/Splash%20Screen.jpg" width="180"/> | <img src="assets/images/Google%20Sign-In.jpg" width="180"/> | <img src="assets/images/Dashboard.jpg" width="180"/> | <img src="assets/images/Add%20Expense%20Screen.jpg" width="180"/> |
 
-### Dashboard
-<img src="assets/images/Dashboard.jpg" width="250"/>
+| Expense Details | AI Assistant | Analytics Dashboard | Settings |
+|---|---|---|---|
+| <img src="assets/images/Expense%20Details.jpg" width="180"/> | <img src="assets/images/AI%20Assistant%20(Gemini%20Chat).jpg" width="180"/> | <img src="assets/images/Analytics%20Dashboard.jpg" width="180"/> | <img src="assets/images/Settings.jpg" width="180"/> |
 
-### Add Expense
-<img src="assets/images/Add Expense Screen.jpg" width="250"/>
-
-### Expense Details
-<img src="assets/images/Expense Details.jpg" width="250"/>
-
-### AI Assistant (Gemini Chat)
-<img src="assets/images/AI Assistant (Gemini Chat).jpg" width="250"/>
-
-### Analytics Dashboard
-<img src="assets/images/Analytics Dashboard.jpg" width="250"/>
-
-### Settings
-<img src="assets/images/Settings.jpg" width="250"/>
+</div>
 
 ---
 
